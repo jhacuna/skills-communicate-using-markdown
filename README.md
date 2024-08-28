@@ -42,8 +42,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 TIPO|URL
 -|-
 BACK|[Visita GitHub](https://www.github.com)
-
-
 FRONT|[Visita GitHub](https://www.github.com)
 
 
