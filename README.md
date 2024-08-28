@@ -11,6 +11,8 @@
 
 # Communicate using Markdown
 ## IMAGEN
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 [Visita GitHub](https://www.github.com)
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
