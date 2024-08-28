@@ -1,4 +1,4 @@
-############################# PRUEBA ENCABEZADO
+# PRUEBA ENCABEZADO
 
 <header>
 
