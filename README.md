@@ -41,9 +41,11 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 TIPO|URL
 -|-
-BACK|![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+BACK|[Visita GitHub](https://www.github.com)
 
-FRONT|![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+FRONT|[Visita GitHub](https://www.github.com)
+
 
 
 ### Example
