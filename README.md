@@ -11,7 +11,7 @@
 
 # Communicate using Markdown
 ## IMAGEN
-[Link to Microsoft Training](/training)
+[Link to Microsoft Training](/[training](https://learn.microsoft.com/es-es/training/))
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
