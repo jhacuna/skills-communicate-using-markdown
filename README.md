@@ -11,7 +11,7 @@
 
 # Communicate using Markdown
 ## IMAGEN
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+[Link to Microsoft Training](/training)
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
